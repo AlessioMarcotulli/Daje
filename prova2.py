@@ -11,4 +11,4 @@ a = float(input("inserisci altezza: "))
 b = float(input("inserisci base: "))
 
 area = a * b
-print("Area: ", area)
+print("Area: ", j)
